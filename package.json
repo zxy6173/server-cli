@@ -1,6 +1,6 @@
 {
   "name": "server-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "node server",
   "author": {
     "name": "BDK",
@@ -21,5 +21,5 @@
   "repository": {
       "type": "git",
       "url": "https://github.com/zxy6173/server-cli.git"
-  },
+  }
 }
